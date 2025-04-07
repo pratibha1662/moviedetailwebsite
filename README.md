@@ -8,7 +8,7 @@ A single-page web application designed to let users search for movies and web se
 
 I built this project to enhance my front-end development skills and explore working with third-party APIs. The goal was to create a visually appealing and functional platform where users can quickly find information about their favorite movies and shows. It was also a great opportunity to practice clean UI/UX design, improve API handling, and build a real-world application using JavaScript.
 
-## This website application provides the following functionality:
+### This website application provides the following functionality:
 
 - Allows users to search for movies and web series using a central keyword-based search box.
 - Fetches and displays detailed information including title, release year, genre, plot, rating, and cast.
